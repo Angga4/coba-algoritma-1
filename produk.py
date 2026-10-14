@@ -12,3 +12,5 @@ while True:
     lagi = input("Apakah Anda ingin memasukkan data lagi? (y/n): ")
     if lagi.lower() != 'y':
         break
+
+print("Terima kasih telah menggunakan program ini.")
