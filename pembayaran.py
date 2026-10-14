@@ -1,3 +1,3 @@
 print("pembayaran berhasil")
 
-print(7676)
+print("pembayaran gagal")
